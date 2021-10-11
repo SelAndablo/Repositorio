@@ -1,2 +1,2 @@
-# Repositorio-AXA
+# Repositorio
 Prueba de Repositorio
